@@ -7,6 +7,7 @@ I am a 22-year-old M.Sc. student in Electronic and Computer Engineering at FER, 
 * **Low-power Wi-Fi Sensor Node:** Designed a system for processing and sending temperature data using STM32, ESP32, and a Flask/MongoDB web app for my final BSc thesis.
 * **RC Car Control System:** Built an embedded system using ESP32 with FreeRTOS and a Simulink model for traction control during my Spyrosoft internship.
 * **ECG Signal Processing:** Developed high-level SPI interfaces and filtered biomedical signals using the CMSIS-DSP library on STM32.
+* **Driverbox:** Currently in progress: embedded system for advanced Assetto Corsa telemetry and Edge AI trajectory predictions
 
 ### 🎸 Interests
 When I am not coding or debugging hardware, I am usually playing the electric guitar, playing basketball, or cycling.
