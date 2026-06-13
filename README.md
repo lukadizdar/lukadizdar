@@ -1,7 +1,10 @@
 # Hi there! I'm Luka 👋
 
 ### 📝 Short Bio
-I am a 23-year-old M.Sc. student in Electronic and Computer Engineering at FER, University of Zagreb. My main professional interests lie at the intersection of embedded systems, signal processing, and control systems. Currently, I work as a 5G Embedded Software Engineer at Ericsson Nikola Tesla. I have practical experience in programming STM32 and ESP32 microcontrollers, working with FreeRTOS, and designing PCBs in Altium Designer. I also enjoy sharing knowledge, which I did as a Student Laboratory Assistant at my university, helping others with FPGAs, microcontrollers, and electronic design.
+My name is Luka Dizdar, I am a 23-year-old M.Sc. student in Electronic and Computer Engineering at FER (University
+of Zagreb). My main interests are embedded systems, digital design, hardware and software development, and signal
+processing. From my projects and work experience, I have gained knowledge about programming STM32 and ESP32
+microcontrollers, as well as working with programmable logic devices, signal processing and control systems
 
 ### 🚀 Projects
 * **Low-power Wi-Fi Sensor Node:** Designed a system for processing and sending temperature data using STM32, ESP32, and a Flask/MongoDB web app for my final BSc thesis.
@@ -10,7 +13,7 @@ I am a 23-year-old M.Sc. student in Electronic and Computer Engineering at FER, 
 * **Driverbox:** Currently in progress: embedded system for advanced Assetto Corsa telemetry
 
 ### 🎸 Interests
-When I am not coding or debugging hardware, I am usually playing the electric guitar, playing basketball, or cycling.
+Electric guitar, basketball, cycling.
 
 ---
 
